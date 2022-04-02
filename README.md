@@ -12,7 +12,12 @@ For this project, I created the back end for an e-commerce site by configuring a
 ## Usage
 Visit my application repo [here](https://github.com/Quadrilateral0/Ecommerce-Backend) and see below for a video demo.
 
-Run the application by completing the following in the terminal: 
+Sign in to mySQL and create the database:
+```
+source develop/db/schema.sql;
+exit;
+```
+Then run the application by completing the following in the terminal: 
 ```
 npm i
 npm start
