@@ -10,14 +10,15 @@ For this project, I created the back end for an e-commerce site by configuring a
 - [License](#license)
 
 ## Usage
-Visit my application repo [here](https://github.com/Quadrilateral0/Ecommerce-Backend) and see below for a video demo.
+Visit my application repo [here](https://github.com/Quadrilateral0/Ecommerce-Backend) and see below for a series of video demos.
 
 Run the application by completing the following in the terminal: 
 ```
 npm i
 npm start
 ```
-[![Video demo of completed project](assets/ecommerce-demo.png)](xxx)
+Seeding, installing npm, and starting the server:
+[![Seeding, installing npm, and starting the server](assets/ecommerce-demo1.gif)](https://youtu.be/kujXZ43rC98)
 
 ## User Story
 
@@ -48,7 +49,7 @@ A thanks to my resources:
 - [MySQL](https://www.mysql.com/)
 - [Node.js](https://nodejs.dev/learn/introduction-to-nodejs) 
 - [Express.js](https://expressjs.com/)
-- [dotenv] (https://www.npmjs.com/package/dotenv)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 - [Insomnia](https://insomnia.rest/)
 - [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en)
 - [Visual Studio Code](https://code.visualstudio.com/download)
