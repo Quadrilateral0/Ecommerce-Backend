@@ -18,7 +18,7 @@ npm i
 npm start
 ```
 Seeding, installing npm, starting the server, and demonstrating GET, POST, PUT, and DELETE routes:
-[![Seeding, installing npm, starting the server, and running routes](assets/ecommerce-demo1.gif)](https://youtu.be/znMms1xfi2s)
+[![Seeding, installing npm, starting the server, and running routes](assets/ecommerce-demo.gif)](https://youtu.be/znMms1xfi2s)
 
 ## User Story
 
