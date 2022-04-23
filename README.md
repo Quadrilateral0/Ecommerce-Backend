@@ -18,7 +18,7 @@ npm i
 npm start
 ```
 Seeding, installing npm, and starting the server:
-[![Seeding, installing npm, and starting the server](assets/ecommerce-demo1.gif)](https://youtu.be/kujXZ43rC98)
+[![Seeding, installing npm, and starting the server](assets/ecommerce-demo1.gif)](https://younpm rutu.be/kujXZ43rC98)
 
 ## User Story
 
