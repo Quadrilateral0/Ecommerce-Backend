@@ -17,8 +17,8 @@ Run the application by completing the following in the terminal:
 npm i
 npm start
 ```
-Seeding, installing npm, and starting the server:
-[![Seeding, installing npm, and starting the server](assets/ecommerce-demo1.gif)](https://younpm rutu.be/kujXZ43rC98)
+Seeding, installing npm, starting the server, and demonstrating GET, POST, PUT, and DELETE routes:
+[![Seeding, installing npm, starting the server, and running routes](assets/ecommerce-demo1.gif)](https://youtu.be/znMms1xfi2s)
 
 ## User Story
 
